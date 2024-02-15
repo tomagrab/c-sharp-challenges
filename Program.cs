@@ -11,7 +11,9 @@ namespace c_sharp_practice
             {
                 {1, new FizzBuzz().FizzBuzzChallenge},
                 {2, new Palindrome().PalindromeChallenge},
-                {3, new Anagram().AnagramChallenge}
+                {3, new Anagram().AnagramChallenge},
+                {4, new Fibonacci().FibonacciChallenge},
+
             };
 
             while (true)
